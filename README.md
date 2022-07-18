@@ -1,4 +1,4 @@
-# vue-queue-vuex
+# vue-queue-vuex (# vue3-vuex4-queue-system)
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue3-vuex4-queue-system
+
